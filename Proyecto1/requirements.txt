@@ -47,3 +47,4 @@ traitlets==5.11.2
 tzdata==2023.3
 wcwidth==0.2.8
 yellowbrick==1.5
+kmodes==0.12.2
