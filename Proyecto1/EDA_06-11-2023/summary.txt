@@ -1,0 +1,117 @@
+Variable: ID
+Tipo de Variable: int64
+Número de Valores Únicos: 9078
+Porcentaje de Valores Únicos: 53.58%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+Número de Valores Cero: 0
+Porcentaje de Valores Cero: 0.00%
+Número de Valores Negativos: 0
+Porcentaje de Valores Negativos: 0.00%
+Estadísticas Descriptivas:
+count    16944.000000
+mean      4636.311969
+std       2616.343043
+min          1.000000
+25%       2423.000000
+50%       4664.000000
+75%       6914.250000
+max       9078.000000
+
+Variable: Name
+Tipo de Variable: object
+Número de Valores Únicos: 9052
+Porcentaje de Valores Únicos: 53.42%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: Sex
+Tipo de Variable: object
+Número de Valores Únicos: 2
+Porcentaje de Valores Únicos: 0.01%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: Team
+Tipo de Variable: object
+Número de Valores Únicos: 392
+Porcentaje de Valores Únicos: 2.31%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: NOC
+Tipo de Variable: object
+Número de Valores Únicos: 210
+Porcentaje de Valores Únicos: 1.24%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: Games
+Tipo de Variable: object
+Número de Valores Únicos: 51
+Porcentaje de Valores Únicos: 0.30%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: Year
+Tipo de Variable: int64
+Número de Valores Únicos: 35
+Porcentaje de Valores Únicos: 0.21%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+Número de Valores Cero: 0
+Porcentaje de Valores Cero: 0.00%
+Número de Valores Negativos: 0
+Porcentaje de Valores Negativos: 0.00%
+Estadísticas Descriptivas:
+count    16944.000000
+mean      1979.910293
+std         28.865462
+min       1896.000000
+25%       1964.000000
+50%       1988.000000
+75%       2004.000000
+max       2016.000000
+
+Variable: Season
+Tipo de Variable: object
+Número de Valores Únicos: 2
+Porcentaje de Valores Únicos: 0.01%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: City
+Tipo de Variable: object
+Número de Valores Únicos: 42
+Porcentaje de Valores Únicos: 0.25%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: Sport
+Tipo de Variable: object
+Número de Valores Únicos: 61
+Porcentaje de Valores Únicos: 0.36%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: Event
+Tipo de Variable: object
+Número de Valores Únicos: 640
+Porcentaje de Valores Únicos: 3.78%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
+Variable: Medal
+Tipo de Variable: object
+Número de Valores Únicos: 3
+Porcentaje de Valores Únicos: 0.02%
+Número de Valores Nulos: 14775
+Porcentaje de Valores Nulos: 87.20%
+
+Variable: age-height-weight
+Tipo de Variable: object
+Número de Valores Únicos: 11103
+Porcentaje de Valores Únicos: 65.53%
+Número de Valores Nulos: 0
+Porcentaje de Valores Nulos: 0.00%
+
