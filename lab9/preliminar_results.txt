@@ -1,0 +1,2 @@
+MAE con DummyRegressor: 12026.96788653733
+MAE con XGBRegressor: 4208.507968478732
