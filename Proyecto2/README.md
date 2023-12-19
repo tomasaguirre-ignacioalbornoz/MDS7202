@@ -6,7 +6,7 @@ Para correr el código se necesita conda o virtualenv
 
 
 ### CONDA
-conda create -n myenv python=3.11 
+conda create -n myenv python=3.11.5
 
 conda activate myenv 
 
